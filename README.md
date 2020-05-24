@@ -2,6 +2,7 @@
 a discord.js starting base.
 # readme.txt
 PRE-CODED BOT
+
 Constructed by WildcatNT
 
 1: Using special colors
@@ -18,7 +19,7 @@ and hit enter to see the bot come to life!
 
 3: adding/removing commands
 
-Adding commands is simple, just put if(cmd === `${prefix}commandname`){}
+Adding commands is simple, just put if(cmd === \`${prefix}commandname\`){}
 in bot.js, where commandname is the name of the command. be sure to edit
 the help command properly when you add your command! categories are also
 permitted if your command is in a different category.
@@ -33,7 +34,7 @@ an invite to your testing server.
 5: Triggers
 
 adding triggers is as easy as adding commands. use if((message.content).includes("Trigger")){}
-instead of if(cmd === `${prefix}commandname`){}, where Trigger is the trigger word. there is already
+instead of if(cmd === \`${prefix}commandname\`){}, where Trigger is the trigger word. there is already
 a trigger on the bot (if((message.content).includes("<:MSBear:666128276061945909>"))). do NOT remove
 that one, as that allows me to test the bot if it isn't working.
 
