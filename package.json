@@ -1,0 +1,17 @@
+{
+  "name": "precodedbot",
+  "version": "1.0.0",
+  "description": "Pre coded Discord bot by yours truly.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "Miles",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "fs": "0.0.1-security",
+    "gradient-string": "^1.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}

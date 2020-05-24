@@ -1,6 +1,3 @@
-# Pre-coded bot
-a discord.js starting base.
-# readme.txt
 PRE-CODED BOT
 Constructed by WildcatNT
 
