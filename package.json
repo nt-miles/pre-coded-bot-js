@@ -4,7 +4,7 @@
   "description": "Pre coded Discord bot by yours truly.",
   "main": "bot.js",
   "scripts": {
-    "test": "!test"
+    "test": "node bot.js"
   },
   "author": "Miles",
   "license": "ISC",
