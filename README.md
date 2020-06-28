@@ -1,5 +1,9 @@
 # Pre-coded bot
 a discord.js starting base.
+
+# preperation
+PLEASE RUN `npm install` OR `yarn` to install all packages.
+
 # readme.txt
 PRE-CODED BOT
 
@@ -14,8 +18,9 @@ emded field where colorname is the color's name from colors.json.
 2: running the bot 
 
 Running the bot is as simple as placing your token in botconfig.json
-and using node.js! with the command prompt, type in "node bot.js"
-and hit enter to see the bot come to life!
+and using node.js! with the command prompt, type in "npm install" 
+(or yarn), strike ENTER/RETURN, then type "node bot.js" and hit enter 
+to see the bot come to life!
 
 3: adding/removing commands
 
