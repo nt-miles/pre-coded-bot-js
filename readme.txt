@@ -26,7 +26,7 @@ permitted if your command is in a different category.
 
 once the bot is online, I highly suggest running the ping command to see if
 the bot is online and working. if not, check your token, ensure the ping cmd
-is there, and rerun your test. otherwise DM me on Discord (WildcatNT#1337) with
+is there, and rerun your test. otherwise DM me on Discord (WildcatNT#2005) with
 an invite to your testing server. 
 
 5: Triggers
