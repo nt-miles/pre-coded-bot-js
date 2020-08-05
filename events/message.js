@@ -7,7 +7,7 @@ const TLC = message.content.toLowerCase()
         if(message.author.bot || !message.guild) return;
       
         if (message.isMentioned(client.user)) {
-          message.reply(`My prefix is \`,\`. Use \`,jshelp\` to see my commands!`);
+          message.reply(`My prefix is \`${defaultSettings.prefix}\`. Use \`${defaultSettings.prefix}help\` to see my commands!`);
         }
       
         let messageArray = message.content.split(" ");
