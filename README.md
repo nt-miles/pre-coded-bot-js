@@ -1,6 +1,9 @@
 # Pre-coded bot
 a discord.js starting base.
 
+# What's changed since the last version:
+- Added command handler, with help from Stringy(<https://github.com/etstringy/>)
+
 # preperation
 PLEASE RUN `npm install` OR `yarn` to install all packages.
 

@@ -1,4 +1,4 @@
-//add this to bot.js when ready!
+//add this to events\message.js when ready!
 let y = process.openStdin()
 y.addListener("data", res => {
     let x = res.toString().trim().split(/ +/g)
