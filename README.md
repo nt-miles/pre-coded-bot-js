@@ -47,3 +47,6 @@ a trigger on the bot (if((message.content).includes("<:MSBear:666128276061945909
 that one, as that allows me to test the bot if it isn't working.
 
 DO NOT EDIT, MOVE, OR DELETE PACKAGE.JSON, YARN.LOCK OR PACKAGE-LOCK.JSON. THAT IS FOR NPM/YARN TO SEE WHAT YOU NEED.
+
+# My other stuff (I guess):
+Python "branch" of this: https://github.com/wildcatnt/pre-coded-bot-py/
