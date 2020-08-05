@@ -20,7 +20,7 @@ emded field where colorname is the color's name from colors.json.
 
 2: running the bot 
 
-Running the bot is as simple as placing your token in botconfig.json
+Running the bot is as simple as placing your token in config.json
 and using node.js! with the command prompt, type in "npm install" 
 (or yarn), strike ENTER/RETURN, then type "node bot.js" and hit enter 
 to see the bot come to life!
@@ -36,7 +36,7 @@ permitted if your command is in a different category.
 
 once the bot is online, I highly suggest running the ping command to see if
 the bot is online and working. if not, check your token, ensure the ping cmd
-is there, and rerun your test. otherwise DM me on Discord (WildcatNT#2005) with
+is there, and rerun your test. otherwise DM me on Discord (WildWhistlerNT#2005) with
 an invite to your testing server. 
 
 5: Triggers
