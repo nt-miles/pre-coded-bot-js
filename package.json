@@ -11,7 +11,6 @@
   "dependencies": {
     "discord.js": "^11.5.0",
     "fs": "0.0.1-security",
-    "gradient-string": "^1.2.0",
-    "node-fetch": "^2.6.0"
+    "gradient-string": "^1.2.0"
   }
 }
