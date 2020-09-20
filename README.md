@@ -23,9 +23,9 @@ Running the bot is as simple as placing your token in config.json and using node
 
 **3: adding/removing commands**
 
-Adding commands is simple, just create a js file with the name `commandname.js`, where `commandname` is the name of the command. the help command will properly edit if your command is in a category defined in `help.js`. creating a category is simple, too! just copy and paste this code and replace the word `example` with the category's name (and emoji if there is a compatible emoji that fits with your category, wether it be custom or not). strike enter before this though!
+Adding commands is simple, just create a js file with the name `commandname.js`, where `commandname` is the name of the command. the help command will properly edit if your command is in a category defined in `help.js`. creating a category is simple, too! just copy and paste this code and replace the word `example` with the category's name (and emoji if there is a compatible emoji that fits with your category, wether it be custom or not), while `cat` is the word that you use to define where your command goes. strike enter before pasting the code in help.js though!
 ```javascript
-      .addField(":question: example", client.commands.filter(map2=> map2.help.category === "util").map(cmd => `\`${cmd.help.name}\``).join(" "))
+      .addField(":question: example", client.commands.filter(map2=> map2.help.category === "cat").map(cmd => `\`${cmd.help.name}\``).join(" "))
 ```
 
 **4: testing the bot**
