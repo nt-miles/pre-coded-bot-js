@@ -15,7 +15,7 @@ const TLC = message.content.toLowerCase()
         let args = messageArray.slice(1);
 
         if((message.content).includes("<:MSBear:666128276061945909>")){
-          message.channel.send("What a very peculiar bear... Only WildcatNT could send that so...")
+          message.channel.send("What a very peculiar bear... Only Miles could send that so...")
       }
 
     

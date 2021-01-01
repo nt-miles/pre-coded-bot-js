@@ -2,16 +2,15 @@
 a discord.js starting base.
 
 # What's changed since the last version:
-- Added command handler, with help from [Stringy](https://github.com/etstringy/)
-- Removed node-fetch, womp womp.
-- Made readme more... markdown friendly.
+- TOS command updated and now leads [here](https://dis.gd/tos)
+- Username updates
 
 # preperation
 PLEASE RUN `npm install` OR `yarn` to install all packages.
 
 ### PRE-CODED BOT
 
-*Constructed by WildcatNT*
+*Constructed by NT-Miles*
 
 **1: Using special colors**
 
@@ -30,7 +29,7 @@ Adding commands is simple, just create a js file with the name `commandname.js`,
 
 **4: testing the bot**
 
-once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__IcebearNT#1987__**) with an invite to your testing server. 
+once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__[H] NT#2684__**) with an invite to your testing server. 
 
 **5: Triggers**
 
@@ -39,4 +38,4 @@ adding triggers is as easy as adding commands. use `if((message.content.toLowerc
 DO NOT EDIT, MOVE, OR DELETE PACKAGE.JSON, YARN.LOCK OR PACKAGE-LOCK.JSON. THAT IS FOR NPM/YARN TO SEE WHAT YOU NEED.
 
 # My other stuff (I guess):
-**[Python "branch" of this](https://github.com/wildcatnt/pre-coded-bot-py/)**
+**[Python "branch" of this](https://github.com/nt-miles/pre-coded-bot-py/)**
