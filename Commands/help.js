@@ -4,7 +4,7 @@ module.exports.run = async (client, message, args,) => {
   let embed = new Discord.RichEmbed()
       .setTitle("**Help Menu**")
       .addField(":wrench: Util", client.commands.filter(map2=> map2.help.category === "util").map(cmd => `\`${cmd.help.name}\``).join(" "))
-      .setFooter(`${bot.user.username} | Based on the pre-coded bot script from WildcatNT!`)
+      .setFooter(`${client.user.username} | Based on the pre-coded bot script from WildcatNT!`)
       .setColor("#DA14EC")
 
   message.channel.send({embed: embed})

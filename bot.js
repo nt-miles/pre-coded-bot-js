@@ -2,7 +2,7 @@ const gradient = require('gradient-string');
 console.log(gradient.fruit('Loading the bot...'));
 console.log(gradient.rainbow("========================="));
 
-const botconfig = require("./botconfig.json");
+const botconfig = require("./config.json");
 const colors = require("./colors.json");
 const fs = require("fs");
 const Discord = require("discord.js");
