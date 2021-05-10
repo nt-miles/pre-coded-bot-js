@@ -29,7 +29,7 @@ Adding commands is simple, just create a js file with the name `commandname.js`,
 
 **4: testing the bot**
 
-once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__[H] NT#2684__**) with an invite to your testing server. 
+once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__NT_Scor#9569__**) with an invite to your testing server. 
 
 **5: Triggers**
 
