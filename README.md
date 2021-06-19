@@ -2,7 +2,7 @@
 a discord.js starting base.
 
 # What's changed since the last version:
-- TOS command updated and now leads [here](https://dis.gd/tos)
+- Colors.json removed. didnt even need it!
 - Username updates
 
 # preperation
@@ -10,7 +10,7 @@ PLEASE RUN `npm install` OR `yarn` to install all packages.
 
 ### PRE-CODED BOT
 
-*Constructed by NT-Miles*
+*Constructed by NT_Scor*
 
 **1: Using special colors**
 
@@ -29,7 +29,7 @@ Adding commands is simple, just create a js file with the name `commandname.js`,
 
 **4: testing the bot**
 
-once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__NT_Scor#9569__**) with an invite to your testing server. 
+once the bot is online, I highly suggest running the ping command (**`{prefix}ping`**) to see if the bot is online and working. if not, check your token, ensure the ping cmd is there, and rerun your test. otherwise DM me on Discord (**__NT_Scor#7267__**) with an invite to your testing server. 
 
 **5: Triggers**
 
